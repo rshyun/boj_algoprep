@@ -8,8 +8,8 @@ Please organize the folder structure.
 .
 └── user-name					               
 	└── year_month				           
-	    	└── week X 	                
-	             └──MMDD_QuestionNumber   
+	    	└── week0X 	                
+	             └── MMDD_QuestionNumber   
 ```
 
 ## Code format
